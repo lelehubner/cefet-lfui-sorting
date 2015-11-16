@@ -31,7 +31,7 @@ void Heap(unsigned long *v, long root, long bottom, unsigned long *mov, unsigned
 
 {
     //(v[root * 2] > v[root * 2 + 1])
-    *comp)++;
+    (h*comp)++;
     maxChild = root * 2 + 1;
 
     }
